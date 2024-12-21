@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
 ## 🚀 About Me
 - 🌱 I’m currently learning new technologies and improving my coding skills.
 - 💬 Ask me about Python, JavaScript, and web development.
-- 📫 How to reach me: [Your Email](mailto:crypt.4007@proton.me)
+- 📫 How to reach me: [Email](mailto:crypt.4007@proton.me)
 - ⚡ Fun fact: I love solving puzzles and playing chess.
 
 ## 🛠️ Technologies & Tools
