@@ -1,25 +1,33 @@
-# 👋 Hi, I’m @Shubham-bit-hash (Shubham Shingare)
+# Hi there, I'm Shubham 👋
 
-## 👀 About Me
-I'm passionate about computer technologies, particularly in the realms of Java, Python, and Cyber Security. I hold a Bachelor's degree in Computer Science and am currently pursuing my Master's in the same field. Additionally, I work as a Backend Developer, where I focus on JavaScript, Node.js, and Golang.
+Welcome to my GitHub profile! I'm passionate about coding, open-source, and continuous learning. Here you'll find some of the projects I've been working on and contributing to.
 
-## 🌱 Current Learning
-I'm continually expanding my knowledge, especially in Cyber Security. It's an area I'm particularly interested in, and I aim to deepen my understanding of how to protect systems and networks from potential threats.
+## 🚀 About Me
+- 🌱 I’m currently learning new technologies and improving my coding skills.
+- 💬 Ask me about Python, JavaScript, and web development.
+- 📫 How to reach me: [Your Email](mailto:crypt.4007@proton.me)
+- ⚡ Fun fact: I love solving puzzles and playing chess.
 
-## 💼 Tech Stack
-- **Backend Development**: JavaScript (Node.js), Golang
-- **Languages**: Java, Python, JavaScript, Go
-- **Databases**: MongoDB, DynamoDB
+## 🛠️ Technologies & Tools
+- Programming Languages: Python, JavaScript, Java
+- Web Development: HTML, CSS, React, Node.js
+- Databases: MySQL, MongoDB
+- Tools: Git, Docker, VSCode, Postman
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubham-bit-hash&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-bit-hash&layout=compact&theme=radical)
+
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/shubham-shingare-038636221)
+- [Twitter](https://twitter.com/_shubham_s19)
+
+## 💻 Projects
+visit the repo section
 
 
-## 💞️ Collaborations
-I'm open to collaborating with like-minded individuals who are passionate about backend development, cybersecurity, or any exciting tech innovations. Always excited to learn and work on projects that help solve real-world problems.
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
-## 📫 How to Reach Me
-- Instagram: [crypt.4007](https://www.instagram.com/crypt.4007/)
+---
 
-
-<!---
-Shubham-bit-hash/Shubham-bit-hash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⭐️ From [Shubham-bit-hash](https://github.com/Shubham-bit-hash)
